@@ -25,7 +25,7 @@ To identify high-performing weeks, analyze store performance, and classify high-
 
 ## 📁 Files
 - `Retail_Store_Revenue_Analysis.ipynb`: Full notebook
-- `retail_revenue_data.csv`: Dataset used for the analysis
+- `retail_saless_data.csv`: Dataset used for the analysis
 
 
 ---
